@@ -1,9 +1,9 @@
 'fileTypes': [
-  'hamlc'
+  'haml'
 ]
 'foldingStartMarker': '^\\s*([-%#\\:\\.\\w\\=].*)\\s$'
 'foldingStopMarker': '^\\s*$'
-'name': 'Coffee Haml'
+'name': 'Ruby Haml (actually coffee)'
 'patterns': [
   {
     'captures':
